@@ -1,0 +1,30 @@
+.contact{
+color: white;
+ text-decoration: none;
+
+}
+
+.contactdiv{
+    display: flex;
+    justify-content: space-between ;
+    background:black;
+    padding: 8px 30px;
+    
+}
+.link-div{
+text-decoration: none;
+}
+.ul-link{
+    list-style: none;
+   
+    display: flex;
+    column-gap: 50px;
+
+    
+}
+
+.nav-div{
+    background-color: aqua;
+}
+
+

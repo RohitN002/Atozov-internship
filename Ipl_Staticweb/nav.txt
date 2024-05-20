@@ -1,0 +1,36 @@
+<!-- navbar -->
+
+             <!-- <div class="nav_bar  d-flex justify-content-between">
+
+                <div>
+                    <img src="./assets/img/image-removebg-preview.png" width="200px" height="80px" alt="">
+                </div>
+
+                <div>
+                    <ul class="menus">
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Services</li>
+                        <li>Blogs</li>
+                        <li>Contact</li>
+
+                    </ul>
+                </div>
+
+                <div class="mt-4" >
+                    <button class=" btn btn-dark" >Login</button>
+                    <button class="btn btn-outline-dark" >Signup</button>
+                </div>
+
+             </div> -->
+
+             .menus{
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    margin-top: 20px;
+}
+.nav_bar{
+    background-color: rgb(211, 211, 211);
+    padding: 0px 30px;
+}
