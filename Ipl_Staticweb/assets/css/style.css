@@ -26,5 +26,11 @@ text-decoration: none;
 .nav-div{
     background-color: aqua;
 }
+.img{
+    object-fit: cover;
+    max-height: 500px;
+}
+
+
 
 
